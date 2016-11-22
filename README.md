@@ -1,6 +1,6 @@
 #United States Bill Of Rights
  
-This is the one and only [United States Bill of RightsConstitution](rights.md),
+This is the one and only [United States Bill of RightsConstitution](Rights.md),
 reimagined in the technology built for managing living documents: git.
 
 Each time the constitution changed, it's a new commit.
